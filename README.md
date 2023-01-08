@@ -21,7 +21,7 @@ The goal is to minimize the step between me having an idea and me working on the
 export PROJECT_NAME="your project name"
 ```
 ```
-git clone https://github.com/QuentinPoto/svelte_firebase_quickstarter.git $PROJECT_NAME
+git clone https://github.com/QuentinPoto/FireSvelteStarter.git $PROJECT_NAME
 cd $PROJECT_NAME 
 ./install.sh
 ```
