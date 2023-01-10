@@ -39,6 +39,7 @@ All the help:
 
 ### TODOs ✍️
 1. Ask for the needed tools (do you want tailwind, firebase, ... ?)
+1. Add npm i eslint-plugin-tailwindcss --save-dev
 2. Check if all the dependencies are here before the installation
 3. Abstract the two first svelte-create questions (about directory)
 4. Adding a Window (the OS) version
