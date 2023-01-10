@@ -38,9 +38,10 @@ All the help:
 ---
 
 ### TODOs ✍️
-1. Make this project a rust CLI tool
+1. Ask for the needed tools (do you want tailwind, firebase, ... ?)
 2. Check if all the dependencies are here before the installation
 3. Abstract the two first svelte-create questions (about directory)
 4. Adding a Window (the OS) version
+1. Make this project a rust CLI tool ? Node CLI tool ?
 
 *If you want to help, you're welcome 🖐*
